@@ -1,5 +1,5 @@
 <h1 align="center">Hey, my name is Pratham Malviya 👋</h1>
-<h3 align="center">AI & Machine Learning Enthusiast | Python Developer | Passionate about Building Real-World AI Applications</h3>
+<h3 align="center">Aspiring AI Engineer </h3>
 
 ---
 
@@ -28,6 +28,14 @@
 
 ---
 
+### 📜 Certifications
+
+- ✅ [Deep Learning – IIT Ropar (NPTEL)](https://internalapp.nptel.ac.in/noc/Ecertificate/?q=NPTEL25CS21S94750000204297015)  
+- ✅ [Introduction to Machine Learning – IIT Kharagpur (NPTEL)](https://archive.nptel.ac.in/noc/Ecertificate/?q=NPTEL24CS81S43730012402721117)  
+- ✅ [Computer Networking – Google (Coursera)](https://www.coursera.org/account/accomplishments/verify/4Z2CY2NSGBZL)  
+- ✅ [Essential Mathematics for Machine Learning – IIT Roorkee (NPTEL)](https://archive.nptel.ac.in/noc/Ecertificate/?q=NPTEL23MA93S83790026020304248)
+
+
 ### 📫 Connect With Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/prathammalviya1/)
@@ -38,5 +46,5 @@
 
 ### 💡 Personal Motto
 
-> Turning intelligent ideas into impactful code.
+> Just following my instinct and intuition.
 
