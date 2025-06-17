@@ -1,4 +1,4 @@
-<h1 align="center">Hey, my name is Pratham Malviya 👋</h1>
+<h1 align="center">Hey, My name is Pratham Malviya 👋</h1>
 <h3 align="center">Aspiring AI Engineer </h3>
 
 ---
