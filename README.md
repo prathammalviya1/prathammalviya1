@@ -27,22 +27,7 @@
 - CI/CD & Automation with **GitHub Actions**
 
 ---
-
-### 📜 Certifications
-
-- ✅ [Deep Learning – IIT Ropar (NPTEL)](https://internalapp.nptel.ac.in/noc/Ecertificate/?q=NPTEL25CS21S94750000204297015)  
-- ✅ [Introduction to Machine Learning – IIT Kharagpur (NPTEL)](https://archive.nptel.ac.in/noc/Ecertificate/?q=NPTEL24CS81S43730012402721117)
-- ✅ [Essential Mathematics for Machine Learning – IIT Roorkee (NPTEL)](https://archive.nptel.ac.in/noc/Ecertificate/?q=NPTEL23MA93S83790026020304248)
-- ✅ [Computer Networking – Google (Coursera)](https://www.coursera.org/account/accomplishments/verify/4Z2CY2NSGBZL)   
-
-
-### 📫 Connect With Me
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/prathammalviya1/)
-- 💌 Email: prathammalviya1@gmail.com  
-- 🧩 [LeetCode](https://leetcode.com/prathammalviya1/)
-- ### 🛠️ Languages and Tools
-
+### 🛠️ Languages and Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
@@ -58,7 +43,21 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
+---
 
+### 📜 Certifications
+
+- ✅ [Deep Learning – IIT Ropar (NPTEL)](https://internalapp.nptel.ac.in/noc/Ecertificate/?q=NPTEL25CS21S94750000204297015)  
+- ✅ [Introduction to Machine Learning – IIT Kharagpur (NPTEL)](https://archive.nptel.ac.in/noc/Ecertificate/?q=NPTEL24CS81S43730012402721117)
+- ✅ [Essential Mathematics for Machine Learning – IIT Roorkee (NPTEL)](https://archive.nptel.ac.in/noc/Ecertificate/?q=NPTEL23MA93S83790026020304248)
+- ✅ [Computer Networking – Google (Coursera)](https://www.coursera.org/account/accomplishments/verify/4Z2CY2NSGBZL)   
+
+
+### 📫 Connect With Me
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/prathammalviya1/)
+- 💌 Email: prathammalviya1@gmail.com  
+- 🧩 [LeetCode](https://leetcode.com/prathammalviya1/)
 ---
 
 ### 💡 Personal Motto
