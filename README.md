@@ -5,6 +5,11 @@
 
 ### 🚀 Recent Projects
 
+
+- ✅ **Copy Paste App**  
+  A fast and minimalist **React + Vite** web application that allows users to **copy and paste text** with a single click. Built using **Tailwind CSS** for sleek UI, deployed on **Vercel**, and powered by **Redux Toolkit** for smooth state handling.  
+  🔗 [Live Demo](https://copy-pasteapp.vercel.app/) | [GitHub](https://github.com/prathammalviya1/paste.app)
+
 - ✅ **Soyabean Leaf Disease Prediction App**  
   Built a mobile application using **Flutter** that detects soyabean leaf diseases using a **CNN-based classifier**, enhanced with **Vanilla GAN** for better generalization.  
 
