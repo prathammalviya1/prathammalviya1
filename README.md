@@ -8,7 +8,7 @@
 - ✅ **Portfolio Website**  
   Developed a **personal portfolio** to showcase projects, skills, and certifications using **HTML, CSS, and JavaScript**.  
   Designed a **clean, responsive UI** and deployed it on **GitHub Pages** and **Vercel**.  
-  🔗 [Live Demo - GitHub Pages](https://prathammalviya1.github.io/Portfolio/) | [Live Demo - Vercel](https://pratham-malviya-portfolio.vercel.app/) | [GitHub](https://github.com/prathammalviya1/Portfolio)
+  🔗 [Live Demo - GitHub Pages](https://prathammalviya1.github.io/Portfolio/) | [Live Demo - Vercel](https://pratham-malviya-portfolio.vercel.app/) | [GitHub](https://github.com/prathammalviya1/Portfolio) | [Live Demo - Netlify](https://pratham-malviya-portfolio.netlify.app/)
 
 - ✅ **Clipboard App**  
   A fast and minimalist **React + Vite** web application that allows users to **copy and paste text** with a single click. Built using **Tailwind CSS** for sleek UI, deployed on **Vercel**, and powered by **Redux Toolkit** for smooth state handling.
