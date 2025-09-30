@@ -1,10 +1,14 @@
 <h1 align="center">Hey, My name is Pratham Malviya 👋</h1>
-<h3 align="center">Aspiring AI Engineer </h3>
+<h3 align="center">Aspiring AI Engineer</h3>
 
 ---
 
 ### 🚀 Recent Projects
 
+- ✅ **Portfolio Website**  
+  Developed a **personal portfolio** to showcase projects, skills, and certifications using **HTML, CSS, and JavaScript**.  
+  Designed a **clean, responsive UI** and deployed it on **GitHub Pages** and **Vercel**.  
+  🔗 [Live Demo - GitHub Pages](https://prathammalviya1.github.io/Portfolio/) | [Live Demo - Vercel](https://pratham-malviya-portfolio.vercel.app/) | [GitHub](https://github.com/prathammalviya1/Portfolio)
 
 - ✅ **Clipboard App**  
   A fast and minimalist **React + Vite** web application that allows users to **copy and paste text** with a single click. Built using **Tailwind CSS** for sleek UI, deployed on **Vercel**, and powered by **Redux Toolkit** for smooth state handling.  
@@ -67,7 +71,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-
 ---
 
 ### 📜 Certifications
@@ -76,7 +79,6 @@
 - ✅ [Introduction to Machine Learning – IIT Kharagpur (NPTEL)](https://archive.nptel.ac.in/noc/Ecertificate/?q=NPTEL24CS81S43730012402721117)
 - ✅ [Essential Mathematics for Machine Learning – IIT Roorkee (NPTEL)](https://archive.nptel.ac.in/noc/Ecertificate/?q=NPTEL23MA93S83790026020304248)
 - ✅ [Computer Networking – Google (Coursera)](https://www.coursera.org/account/accomplishments/verify/4Z2CY2NSGBZL)   
-
 
 ### 📫 Connect With Me
 
@@ -88,4 +90,3 @@
 ### 💡 Personal Motto
 
 > Just following my instinct and intuition.
-
