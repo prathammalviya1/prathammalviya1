@@ -15,7 +15,7 @@
   🔗 [Live Demo](https://copy-pasteapp.vercel.app/) | [GitHub](https://github.com/prathammalviya1/paste.app)
 
 - ✅ **Soyabean Leaf Disease Prediction App**  
-  Built a mobile application using **Flutter** that detects soyabean leaf diseases using a **CNN-based classifier**, enhanced with **Vanilla GAN** for better generalization.  
+  Built a mobile application using **Flutter** that detects soyabean leaf diseases using a **CNN-based classifier**, enhanced with **Vanilla GAN** for better generalization.  🔗 [Live Demo](https://drive.google.com/drive/u/2/folders/1Q7l2ca5aNWwvOJHYV7R2OHFaePAaFz0B) 
 
 - ✅ **Auto Chat Reply Bot**  
   Developed a smart reply bot using **OpenAI's GPT API**, integrated with Python automation libraries to simulate real-time auto responses in desktop environments.  
